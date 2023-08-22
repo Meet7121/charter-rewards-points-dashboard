@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table thead tr th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+
+table tbody tr td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}

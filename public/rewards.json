@@ -1,0 +1,100 @@
+{
+    "rewards": [
+        {
+            "customerId": 1,
+            "customerName": "Mike Arthure",
+            "amount": 120,
+            "transactionDate": "2022-04-11"
+          },
+          {
+            "customerId": 1,
+            "customerName": "Mike Arthure",
+            "amount": 75,
+            "transactionDate": "2022-05-21"
+          },
+          {
+            "customerId": 1,
+            "customerName": "Mike Arthure",
+            "amount": 94,
+            "transactionDate": "2022-05-21"
+          },
+          {
+            "customerId": 1,
+            "customerName": "Mike Arthure",
+            "amount": 10,
+            "transactionDate": "2022-06-21"
+          },
+          {
+            "customerId": 1,
+            "customerName": "Mike Arthure",
+            "amount": 75,
+            "transactionDate": "2022-06-19"
+          },
+          {
+            "customerId": 1,
+            "customerName": "Mike Arthure",
+            "amount": 200,
+            "transactionDate": "2022-07-25"
+          },
+          {
+            "customerId": 1,
+            "customerName": "Mike Arthure",
+            "amount": 1,
+            "transactionDate": "2022-07-04"
+          },
+          {
+            "customerId": 1,
+            "customerName": "Mike Arthure",
+            "amount": 80,
+            "transactionDate": "2022-07-15"
+          },
+          {
+            "customerId": 1,
+            "customerName": "Mike Arthure",
+            "amount": 224,
+            "transactionDate": "2022-07-21"
+          },
+          {
+            "customerId": 3,
+            "customerName": "Sam Wright",
+            "amount": 125,
+            "transactionDate": "2022-05-28"
+          },
+          {
+            "customerId": 2,
+            "customerName": "Sarah Walls",
+            "amount": 75,
+            "transactionDate": "2022-05-21"
+          },
+          {
+            "customerId": 2,
+            "customerName": "Sarah Walls",
+            "amount": 10,
+            "transactionDate": "2022-06-11"
+          },
+          {
+            "customerId": 2,
+            "customerName": "Sarah Walls",
+            "amount": 75,
+            "transactionDate": "2022-06-21"
+          },
+          {
+            "customerId": 2,
+            "customerName": "Sarah Walls",
+            "amount": 200,
+            "transactionDate": "2022-07-17"
+          },
+          {
+            "customerId": 2,
+            "customerName": "Sarah Walls",
+            "amount": 224,
+            "transactionDate": "2022-07-21"
+          },
+          {
+            "customerId": 4,
+            "customerName": "Temp User",
+            "amount": 102,
+            "transactionDate": "2022-06-21"
+          }
+    ]
+}
